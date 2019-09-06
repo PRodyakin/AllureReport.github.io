@@ -5,13 +5,13 @@
     "name" : "AndroidTests.LibraryTest",
     "children" : [ {
       "name" : "testSomeLibraryMethod",
-      "uid" : "50f57c319ee4c353",
+      "uid" : "32d53e46afb15847",
       "parentUid" : "443b6f1327bd82f4599904ee7e20873d",
       "status" : "passed",
       "time" : {
-        "start" : 1567763875024,
-        "stop" : 1567763875032,
-        "duration" : 8
+        "start" : 1567773886888,
+        "stop" : 1567773886897,
+        "duration" : 9
       },
       "flaky" : false,
       "newFailed" : false,
@@ -19,38 +19,21 @@
     } ],
     "uid" : "443b6f1327bd82f4599904ee7e20873d"
   }, {
-    "name" : "test.FailTest",
+    "name" : "test.RepeatedApp",
     "children" : [ {
-      "name" : "FailTest",
-      "uid" : "4bc1d450ec545a10",
-      "parentUid" : "092545fa56c6b484dafb6d4c2ad47b5b",
-      "status" : "failed",
-      "time" : {
-        "start" : 1567763875258,
-        "stop" : 1567763875263,
-        "duration" : 5
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "092545fa56c6b484dafb6d4c2ad47b5b"
-  }, {
-    "name" : "test.test",
-    "children" : [ {
-      "name" : "test1",
-      "uid" : "80f5fc2afbcce14",
-      "parentUid" : "232cca6bfda439169e0341a516d494bf",
+      "name" : "RepeatedApptest",
+      "uid" : "b681bef3dffe8d84",
+      "parentUid" : "daaf4706d3f34cf34b584fca62157cc6",
       "status" : "broken",
       "time" : {
-        "start" : 1567763875518,
-        "stop" : 1567763923326,
-        "duration" : 47808
+        "start" : 1567773887168,
+        "stop" : 1567773932139,
+        "duration" : 44971
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "232cca6bfda439169e0341a516d494bf"
+    "uid" : "daaf4706d3f34cf34b584fca62157cc6"
   } ]
 }

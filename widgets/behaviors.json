@@ -1,17 +1,6 @@
 {
-  "total" : 3,
+  "total" : 2,
   "items" : [ {
-    "uid" : "fa2500588c775d2eb3ab4c958a5513f5",
-    "name" : "Fail test",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
     "uid" : "ebacc87ad19c80eb6bab9f5b8f9f347b",
     "name" : "Автотест для проверки повторной заявки пользователя",
     "statistic" : {

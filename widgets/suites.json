@@ -1,19 +1,8 @@
 {
-  "total" : 3,
+  "total" : 2,
   "items" : [ {
-    "uid" : "092545fa56c6b484dafb6d4c2ad47b5b",
-    "name" : "test.FailTest",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "232cca6bfda439169e0341a516d494bf",
-    "name" : "test.test",
+    "uid" : "daaf4706d3f34cf34b584fca62157cc6",
+    "name" : "test.RepeatedApp",
     "statistic" : {
       "failed" : 0,
       "broken" : 1,
