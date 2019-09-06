@@ -1,5 +1,52 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "testSomeLibraryMethod",
+    "uid" : "50f57c319ee4c353",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567763875024,
+      "stop" : 1567763875032,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Fail test",
+    "children" : [ {
+      "name" : "FailTest",
+      "uid" : "4bc1d450ec545a10",
+      "parentUid" : "fa2500588c775d2eb3ab4c958a5513f5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1567763875258,
+        "stop" : 1567763875263,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fa2500588c775d2eb3ab4c958a5513f5"
+  }, {
+    "name" : "Автотест для проверки повторной заявки пользователя",
+    "children" : [ {
+      "name" : "test1",
+      "uid" : "80f5fc2afbcce14",
+      "parentUid" : "ebacc87ad19c80eb6bab9f5b8f9f347b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1567763875518,
+        "stop" : 1567763923326,
+        "duration" : 47808
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ebacc87ad19c80eb6bab9f5b8f9f347b"
+  } ]
 }

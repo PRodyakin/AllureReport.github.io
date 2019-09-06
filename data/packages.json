@@ -1,5 +1,52 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "AndroidTests",
+    "children" : [ {
+      "name" : "testSomeLibraryMethod",
+      "uid" : "50f57c319ee4c353",
+      "parentUid" : "cc30e6d29c79ee434ac745711b4d8059",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567763875024,
+        "stop" : 1567763875032,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cc30e6d29c79ee434ac745711b4d8059"
+  }, {
+    "name" : "test",
+    "children" : [ {
+      "name" : "FailTest",
+      "uid" : "4bc1d450ec545a10",
+      "parentUid" : "d662795e8d349f9b5595bf62f43ea7ae",
+      "status" : "failed",
+      "time" : {
+        "start" : 1567763875258,
+        "stop" : 1567763875263,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test1",
+      "uid" : "80f5fc2afbcce14",
+      "parentUid" : "d662795e8d349f9b5595bf62f43ea7ae",
+      "status" : "broken",
+      "time" : {
+        "start" : 1567763875518,
+        "stop" : 1567763923326,
+        "duration" : 47808
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d662795e8d349f9b5595bf62f43ea7ae"
+  } ]
 }

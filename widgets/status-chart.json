@@ -1,1 +1,31 @@
-[ ]
+[ {
+  "uid" : "80f5fc2afbcce14",
+  "name" : "test1",
+  "time" : {
+    "start" : 1567763875518,
+    "stop" : 1567763923326,
+    "duration" : 47808
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "50f57c319ee4c353",
+  "name" : "testSomeLibraryMethod",
+  "time" : {
+    "start" : 1567763875024,
+    "stop" : 1567763875032,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bc1d450ec545a10",
+  "name" : "FailTest",
+  "time" : {
+    "start" : 1567763875258,
+    "stop" : 1567763875263,
+    "duration" : 5
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

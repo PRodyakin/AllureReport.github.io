@@ -1,5 +1,52 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Len-4-2",
+    "children" : [ {
+      "name" : "392@Len-4-2.Test worker(11)",
+      "children" : [ {
+        "name" : "test1",
+        "uid" : "80f5fc2afbcce14",
+        "parentUid" : "06039ef5be19007f1bd45f3a77fab78e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1567763875518,
+          "stop" : 1567763923326,
+          "duration" : 47808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "FailTest",
+        "uid" : "4bc1d450ec545a10",
+        "parentUid" : "06039ef5be19007f1bd45f3a77fab78e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1567763875258,
+          "stop" : 1567763875263,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testSomeLibraryMethod",
+        "uid" : "50f57c319ee4c353",
+        "parentUid" : "06039ef5be19007f1bd45f3a77fab78e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567763875024,
+          "stop" : 1567763875032,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "06039ef5be19007f1bd45f3a77fab78e"
+    } ],
+    "uid" : "d78cbdb9aa23f4865e13df3f07dd089d"
+  } ]
 }
