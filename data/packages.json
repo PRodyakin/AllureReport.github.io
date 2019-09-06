@@ -1,0 +1,39 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test",
+    "children" : [ {
+      "name" : "test1",
+      "uid" : "bcd46c262f6756cd",
+      "parentUid" : "d662795e8d349f9b5595bf62f43ea7ae",
+      "status" : "broken",
+      "time" : {
+        "start" : 1567754943683,
+        "stop" : 1567754991398,
+        "duration" : 47715
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d662795e8d349f9b5595bf62f43ea7ae"
+  }, {
+    "name" : "AndroidTests",
+    "children" : [ {
+      "name" : "testSomeLibraryMethod",
+      "uid" : "dbe0138e415b3d6c",
+      "parentUid" : "cc30e6d29c79ee434ac745711b4d8059",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567754991877,
+        "stop" : 1567754991881,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cc30e6d29c79ee434ac745711b4d8059"
+  } ]
+}
