@@ -4,22 +4,22 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "An element could not be located on the page using the given search parameters.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LEN-4-2', ip: '192.168.193.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202-release'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, databaseEnabled: false, desired: {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, deviceName: My Phone, noReset: true, platformName: android, platformVersion: 5.1, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 22, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 5.1.1, statBarHeight: 75, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1701, left: 0, top: 75, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 0a4d90ee-f113-4490-8da1-b050dd4ddbdb\n*** Element info: {Using=id, value=com.oneclickmoney.ocm:id/takeText}",
+      "name" : "An element could not be located on the page using the given search parameters.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LEN-4-2', ip: '192.168.193.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202-release'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, databaseEnabled: false, desired: {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, deviceName: My Phone, noReset: true, platformName: android, platformVersion: 5.1, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 22, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 5.1.1, statBarHeight: 75, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1701, left: 0, top: 75, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 8d3344d2-13dd-4dd2-8bfa-1f05566721c2\n*** Element info: {Using=xpath, value=//android.view.View[@content-desc=\"Выбрать\"]}",
       "children" : [ {
         "name" : "RepeatedApptest",
-        "uid" : "b681bef3dffe8d84",
-        "parentUid" : "66fed2c8d48213cb1718cdaff5c04455",
+        "uid" : "ca15b8f5640c8dd8",
+        "parentUid" : "5eac2b584504dec42bb29687ce2f22f3",
         "status" : "broken",
         "time" : {
-          "start" : 1567773887168,
-          "stop" : 1567773932139,
-          "duration" : 44971
+          "start" : 1567778327745,
+          "stop" : 1567778376476,
+          "duration" : 48731
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "66fed2c8d48213cb1718cdaff5c04455"
+      "uid" : "5eac2b584504dec42bb29687ce2f22f3"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]
