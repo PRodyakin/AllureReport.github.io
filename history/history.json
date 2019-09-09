@@ -2,20 +2,19 @@
   "b58f1728b45b04e8e150094c1f40b44" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "23a3e85287d31ac0",
-      "status" : "broken",
-      "statusDetails" : "An element could not be located on the page using the given search parameters.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LEN-4-2', ip: '192.168.193.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202-release'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, databaseEnabled: false, desired: {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, deviceName: My Phone, noReset: true, platformName: android, platformVersion: 5.1, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 22, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 5.1.1, statBarHeight: 75, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1701, left: 0, top: 75, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 2c5262b3-7d8f-463c-8fed-fdcca2cacf0f\n*** Element info: {Using=xpath, value=/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.GridView/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.ImageView}",
+      "uid" : "970506346465f29f",
+      "status" : "passed",
       "time" : {
-        "start" : 1567780295056,
-        "stop" : 1567780347280,
-        "duration" : 52224
+        "start" : 1568040134020,
+        "stop" : 1568040193309,
+        "duration" : 59289
       }
     } ]
   },
@@ -29,12 +28,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e5c88352fea54774",
+      "uid" : "f7de704b05fd4af",
       "status" : "passed",
       "time" : {
-        "start" : 1567780294558,
-        "stop" : 1567780294567,
-        "duration" : 9
+        "start" : 1568040133591,
+        "stop" : 1568040133608,
+        "duration" : 17
       }
     } ]
   }

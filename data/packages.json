@@ -5,13 +5,13 @@
     "name" : "AndroidTests",
     "children" : [ {
       "name" : "testSomeLibraryMethod",
-      "uid" : "e5c88352fea54774",
+      "uid" : "f7de704b05fd4af",
       "parentUid" : "cc30e6d29c79ee434ac745711b4d8059",
       "status" : "passed",
       "time" : {
-        "start" : 1567780294558,
-        "stop" : 1567780294567,
-        "duration" : 9
+        "start" : 1568040133591,
+        "stop" : 1568040133608,
+        "duration" : 17
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,13 +22,13 @@
     "name" : "test",
     "children" : [ {
       "name" : "RepeatedApptest",
-      "uid" : "23a3e85287d31ac0",
+      "uid" : "970506346465f29f",
       "parentUid" : "d662795e8d349f9b5595bf62f43ea7ae",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1567780295056,
-        "stop" : 1567780347280,
-        "duration" : 52224
+        "start" : 1568040134020,
+        "stop" : 1568040193309,
+        "duration" : 59289
       },
       "flaky" : false,
       "newFailed" : false,
