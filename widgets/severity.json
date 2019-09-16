@@ -1,30 +1,30 @@
 [ {
-  "uid" : "107c135e8484f579",
-  "name" : "NewApptest",
-  "time" : {
-    "start" : 1568643474147,
-    "stop" : 1568643558564,
-    "duration" : 84417
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "febbdacfe4a0c410",
+  "uid" : "b97fc746202c9e89",
   "name" : "testSomeLibraryMethod",
   "time" : {
-    "start" : 1568643602447,
-    "stop" : 1568643602450,
+    "start" : 1568644126690,
+    "stop" : 1568644126693,
     "duration" : 3
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "43bbc57984e16335",
+  "uid" : "145b684d8e4d17dd",
   "name" : "RepeatedApptest",
   "time" : {
-    "start" : 1568643558999,
-    "stop" : 1568643602401,
-    "duration" : 43402
+    "start" : 1568644086352,
+    "stop" : 1568644126630,
+    "duration" : 40278
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db342e13fc267091",
+  "name" : "NewApptest",
+  "time" : {
+    "start" : 1568644017655,
+    "stop" : 1568644086088,
+    "duration" : 68433
   },
   "status" : "broken",
   "severity" : "normal"
