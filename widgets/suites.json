@@ -1,19 +1,30 @@
 {
-  "total" : 2,
+  "total" : 3,
   "items" : [ {
-    "uid" : "443b6f1327bd82f4599904ee7e20873d",
-    "name" : "AndroidTests.LibraryTest",
+    "uid" : "455aaef19e226ead74c0ceee85b3d063",
+    "name" : "test.NewApp",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
   }, {
     "uid" : "daaf4706d3f34cf34b584fca62157cc6",
     "name" : "test.RepeatedApp",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "443b6f1327bd82f4599904ee7e20873d",
+    "name" : "AndroidTests.LibraryTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
