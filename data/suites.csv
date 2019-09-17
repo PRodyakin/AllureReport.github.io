@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Mon Sep 16 17:45:33 MSK 2019","Mon Sep 16 17:46:44 MSK 2019","71665","","test.NewApp","","test.NewApp","NewApptest","NewApptest",""
-"broken","Mon Sep 16 17:46:44 MSK 2019","Mon Sep 16 17:47:25 MSK 2019","40920","","test.RepeatedApp","","test.RepeatedApp","RepeatedApptest","RepeatedApptest",""
-"passed","Mon Sep 16 17:47:25 MSK 2019","Mon Sep 16 17:47:25 MSK 2019","4","","AndroidTests.LibraryTest","","AndroidTests.LibraryTest","testSomeLibraryMethod","testSomeLibraryMethod",""
+"passed","Tue Sep 17 11:20:56 MSK 2019","Tue Sep 17 11:20:56 MSK 2019","29","","AndroidTests.LibraryTest","","AndroidTests.LibraryTest","testSomeLibraryMethod","testSomeLibraryMethod",""
+"broken","Tue Sep 17 11:19:08 MSK 2019","Tue Sep 17 11:20:16 MSK 2019","67806","","test.NewApp","","test.NewApp","NewApptest","NewApptest",""
+"broken","Tue Sep 17 11:20:16 MSK 2019","Tue Sep 17 11:20:56 MSK 2019","40107","","test.RepeatedApp","","test.RepeatedApp","RepeatedApptest","RepeatedApptest",""
