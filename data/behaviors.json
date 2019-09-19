@@ -3,13 +3,13 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "NewApptest",
-    "uid" : "a3e4f9ff5178346f",
+    "uid" : "b951af20eef7f1b7",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1568876876530,
-      "stop" : 1568876953922,
-      "duration" : 77392
+      "start" : 1568878431661,
+      "stop" : 1568878509564,
+      "duration" : 77903
     },
     "flaky" : false,
     "newFailed" : false,
@@ -18,13 +18,13 @@
     "name" : "Автотест для проверки повторной заявки пользователя",
     "children" : [ {
       "name" : "RepeatedApptest",
-      "uid" : "efd4d9c5b785c4c7",
+      "uid" : "60f872514b481d94",
       "parentUid" : "ebacc87ad19c80eb6bab9f5b8f9f347b",
       "status" : "broken",
       "time" : {
-        "start" : 1568876954096,
-        "stop" : 1568876995900,
-        "duration" : 41804
+        "start" : 1568878509858,
+        "stop" : 1568878550990,
+        "duration" : 41132
       },
       "flaky" : false,
       "newFailed" : false,
@@ -33,13 +33,13 @@
     "uid" : "ebacc87ad19c80eb6bab9f5b8f9f347b"
   }, {
     "name" : "testSomeLibraryMethod",
-    "uid" : "cff62c8e9ea9fae0",
+    "uid" : "572ab5fe19e78632",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1568876995926,
-      "stop" : 1568876995931,
-      "duration" : 5
+      "start" : 1568878551012,
+      "stop" : 1568878551021,
+      "duration" : 9
     },
     "flaky" : false,
     "newFailed" : false,

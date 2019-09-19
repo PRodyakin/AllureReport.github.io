@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "efd4d9c5b785c4c7",
+      "uid" : "60f872514b481d94",
       "status" : "broken",
-      "statusDetails" : "An element could not be located on the page using the given search parameters.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LEN-4-2', ip: '192.168.193.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202-release'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, automationName: UiAutomator2, deviceName: My Phone, noReset: true, platformName: android, platformVersion: 5.1, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 22, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 5.1.1, statBarHeight: 75, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1701, left: 0, top: 75, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: efd57e60-b3d9-43a6-97f5-f9e1e45d4c81\n*** Element info: {Using=id, value=com.oneclickmoney.ocm:id/takeText}",
+      "statusDetails" : "An element could not be located on the page using the given search parameters.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LEN-4-2', ip: '192.168.193.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202-release'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .PreloadActivity, appPackage: com.oneclickmoney.ocm, automationName: UiAutomator2, deviceName: My Phone, noReset: true, platformName: android, platformVersion: 5.1, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 22, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 5.1.1, statBarHeight: 75, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1701, left: 0, top: 75, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 40ade840-a756-48af-8b0f-b41e29a81ca8\n*** Element info: {Using=id, value=com.oneclickmoney.ocm:id/takeText}",
       "time" : {
-        "start" : 1568876954096,
-        "stop" : 1568876995900,
-        "duration" : 41804
+        "start" : 1568878509858,
+        "stop" : 1568878550990,
+        "duration" : 41132
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a3e4f9ff5178346f",
+      "uid" : "b951af20eef7f1b7",
       "status" : "broken",
       "time" : {
-        "start" : 1568876876530,
-        "stop" : 1568876953922,
-        "duration" : 77392
+        "start" : 1568878431661,
+        "stop" : 1568878509564,
+        "duration" : 77903
       }
     } ]
   },
@@ -48,12 +48,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cff62c8e9ea9fae0",
+      "uid" : "572ab5fe19e78632",
       "status" : "passed",
       "time" : {
-        "start" : 1568876995926,
-        "stop" : 1568876995931,
-        "duration" : 5
+        "start" : 1568878551012,
+        "stop" : 1568878551021,
+        "duration" : 9
       }
     } ]
   }
