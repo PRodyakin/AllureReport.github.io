@@ -1,0 +1,48 @@
+{
+  "uid" : "657d5404c06e58af",
+  "name" : "testSomeLibraryMethod",
+  "fullName" : "AndroidTests.LibraryTest.testSomeLibraryMethod",
+  "historyId" : "3250fedd230702aca89f8dc04ffa85f0",
+  "time" : {
+    "start" : 1568708456661,
+    "stop" : 1568708456690,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "AndroidTests"
+  }, {
+    "name" : "testClass",
+    "value" : "AndroidTests.LibraryTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSomeLibraryMethod"
+  }, {
+    "name" : "suite",
+    "value" : "AndroidTests.LibraryTest"
+  }, {
+    "name" : "host",
+    "value" : "Len-4-2"
+  }, {
+    "name" : "thread",
+    "value" : "14864@Len-4-2.Test worker(11)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "657d5404c06e58af.json",
+  "parameterValues" : [ ]
+}

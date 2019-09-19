@@ -5,26 +5,26 @@
     "name" : "test",
     "children" : [ {
       "name" : "NewApptest",
-      "uid" : "ed1685d989db377e",
+      "uid" : "a3e4f9ff5178346f",
       "parentUid" : "d662795e8d349f9b5595bf62f43ea7ae",
       "status" : "broken",
       "time" : {
-        "start" : 1568708348452,
-        "stop" : 1568708416258,
-        "duration" : 67806
+        "start" : 1568876876530,
+        "stop" : 1568876953922,
+        "duration" : 77392
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "RepeatedApptest",
-      "uid" : "d4d7a054fa46ac96",
+      "uid" : "efd4d9c5b785c4c7",
       "parentUid" : "d662795e8d349f9b5595bf62f43ea7ae",
       "status" : "broken",
       "time" : {
-        "start" : 1568708416527,
-        "stop" : 1568708456634,
-        "duration" : 40107
+        "start" : 1568876954096,
+        "stop" : 1568876995900,
+        "duration" : 41804
       },
       "flaky" : false,
       "newFailed" : false,
@@ -35,13 +35,13 @@
     "name" : "AndroidTests",
     "children" : [ {
       "name" : "testSomeLibraryMethod",
-      "uid" : "9c2773af742e5c67",
+      "uid" : "cff62c8e9ea9fae0",
       "parentUid" : "cc30e6d29c79ee434ac745711b4d8059",
       "status" : "passed",
       "time" : {
-        "start" : 1568708456661,
-        "stop" : 1568708456690,
-        "duration" : 29
+        "start" : 1568876995926,
+        "stop" : 1568876995931,
+        "duration" : 5
       },
       "flaky" : false,
       "newFailed" : false,

@@ -1,0 +1,258 @@
+{
+  "uid" : "cff62c8e9ea9fae0",
+  "name" : "testSomeLibraryMethod",
+  "fullName" : "AndroidTests.LibraryTest.testSomeLibraryMethod",
+  "historyId" : "3250fedd230702aca89f8dc04ffa85f0",
+  "time" : {
+    "start" : 1568876995926,
+    "stop" : 1568876995931,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "AndroidTests"
+  }, {
+    "name" : "testClass",
+    "value" : "AndroidTests.LibraryTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSomeLibraryMethod"
+  }, {
+    "name" : "suite",
+    "value" : "AndroidTests.LibraryTest"
+  }, {
+    "name" : "host",
+    "value" : "Len-4-2"
+  }, {
+    "name" : "thread",
+    "value" : "13960@Len-4-2.Test worker(11)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "657d5404c06e58af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568708456661,
+        "stop" : 1568708456690,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "d4cb06f2a6c7be30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568645245965,
+        "stop" : 1568645245969,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "88bffdb37a3e43c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568644126690,
+        "stop" : 1568644126693,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "e90217fa55013cd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568643602447,
+        "stop" : 1568643602450,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a5ea3dd1558cad89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568642699943,
+        "stop" : 1568642699945,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "86393a374a8d7fd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568641797556,
+        "stop" : 1568641797558,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "728451e0234fb263",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568641034626,
+        "stop" : 1568641034665,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "7b0b173c0593be1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568640184516,
+        "stop" : 1568640184523,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "a890739be015a9fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568639796942,
+        "stop" : 1568639796945,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "cb674810f76fd87c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568639232144,
+        "stop" : 1568639232146,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "7dc75dc9674ae28f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568638820047,
+        "stop" : 1568638820049,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "7f0a7cc0e73f7470",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568638415349,
+        "stop" : 1568638415352,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c9b9de56d7bffdfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568637851104,
+        "stop" : 1568637851108,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "499b939d753c9968",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568637426891,
+        "stop" : 1568637426894,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "f704c3f16e4fb1c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568633842092,
+        "stop" : 1568633842097,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "e8c2289bd11fdde3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568631163502,
+        "stop" : 1568631163506,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "88b558463c3d97ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568631023815,
+        "stop" : 1568631023820,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "938bb9b4fb76380",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568630882352,
+        "stop" : 1568630882355,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a9f61e58f2801b43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568630742932,
+        "stop" : 1568630742936,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "d30448af0163d35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568630601728,
+        "stop" : 1568630601743,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "d05ad8f45b6f8aff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568630452851,
+        "stop" : 1568630452854,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a3c9cf3510015f11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568630072214,
+        "stop" : 1568630072216,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2818dcac648eaaf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568629921940,
+        "stop" : 1568629921944,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "62c154e91c4039cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568629769311,
+        "stop" : 1568629769317,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "fb423772c13e8f2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568629387807,
+        "stop" : 1568629387811,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "1c2ef15871533c85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568628938229,
+        "stop" : 1568628938239,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cff62c8e9ea9fae0.json",
+  "parameterValues" : [ ]
+}
